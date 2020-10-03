@@ -1,7 +1,6 @@
 import React from "react";
 import { StyleSheet, css } from "aphrodite";
 import Radium from "radium";
-import avatar from "./avatar.jpg";
 import "./App.css";
 
 const appStyle = {
